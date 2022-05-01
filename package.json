@@ -15,7 +15,7 @@
   "author": "Andreas Stassivik",
   "license": "",
   "dependencies": {
-    "axios": "0.16.1",
+    "axios": "0.21.2",
     "babel-cli": "6.24.1",
     "babel-plugin-add-module-exports": "0.2.1",
     "babel-preset-babili": "0.0.12",
